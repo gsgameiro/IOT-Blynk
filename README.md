@@ -1,11 +1,11 @@
 # IOT-Blynk
 IOT and Blynk.
 
-Public Blynk Servers
-Total : 10 Free Public Blynk Server
-----------------------------------------------------
-0.
+*Public Free Blynk Server*
+Total : 10
 
+```
+1.
 Server : zeeblynk.com
 App Port: 9443
 Device Port: 8080
@@ -14,8 +14,8 @@ Energy : 1,000,000
 Email Sending : zeeblynk@gmail.com
 
 Admin : Chettapon Seelaruam
-----------------------------------------------------
-1.
+
+2.
 Server : blynk.iot-cm.com
 App Port: 9443
 Device Port: 8080
@@ -24,8 +24,8 @@ Energy : 1,000,000
 Blynk Email Sending : unknown
 
 Admin : Krisana Meesuk Department of Electronic Science, Chiang Mai
-----------------------------------------------------
-2.
+
+3.
 Server: bilanblynk.ddns.net
 App Port: 9443
 Device Port: 9191
@@ -35,9 +35,7 @@ Blynk Email Sending : unknown
 
 Admin : Likky Bilan 
 
--------------------------------------------------------
-3.
-[Server1]
+4.
 Server : PusanBlynk.ddns.net
 App Port: 9443
 Device Port: 8080
@@ -45,7 +43,9 @@ Status : Alive (seen 11 Dec 2018)
 Energy : 1,000,000 (For more energy,contact admin)
 Blynk Email Sending : support
 
-[Server2]
+Admin : Busan Electric
+
+5.
 Server : blynk.pusan.online
 App Port: 9443
 Device Port: 8888
@@ -55,8 +55,7 @@ Blynk Email Sending : support
 
 Admin : Busan Electric
 
-------------------------------------------------------
-4.
+6.
 Server : prakitblog.com 
 App Port: 9443
 Device Port: 8181
@@ -66,8 +65,7 @@ Blynk Email Sending : support
 
 Admin : Prakit Junkhum
 
-------------------------------------------------------
-5.
+7.
 Server : blynkfree.info
 App Port: 9443
 Device Port: 8080
@@ -77,8 +75,7 @@ Blynk Email Sending : support
 
 Admin : U-karat Limkunakoon
 
-------------------------------------------------------
-6.
+8.
 Server : blynk.honey.co.th
 App Port: 9443
 Device Port: 8080
@@ -88,8 +85,7 @@ Blynk Email Sending : support
 
 Admin : Sonthaya Boonchan 
 
-------------------------------------------------------
-7.
+9.
 Server : page2meblynk.ddnsthailand.com
 App Port: 9443
 Device Port: 8080
@@ -98,8 +94,7 @@ Energy : 1,000,000 (For more energy,contact admin)
 Blynk Email Sending : support
 Admin : Weerachai Yaemvachi
 
-------------------------------------------------------
-8.
+10.
 Server : blynkfree.info
 App Port: 9443
 Device Port: 8080
@@ -109,8 +104,7 @@ Blynk Email Sending : unknown
 
 Admin : U-karat Limkunakoon
 
-------------------------------------------------------
-9.
+11.
 Server : oasiskit.com
 App Port: 9443
 Device Port: 8080
@@ -119,5 +113,4 @@ Energy : 10,000,000
 Blynk Email Sending : support
 
 Admin : K'Permpol Thanapunnamas
-------------------------------------------------------
-
+```
