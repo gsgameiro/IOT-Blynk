@@ -1,8 +1,7 @@
 # IOT-Blynk
-IOT and Blynk.
 
-*Public Free Blynk Server*
-Total : 10
+## *Public Free Blynk Server*
+###### If you know more servers/details, please help me to keep this list updated.
 
 ```
 1.
@@ -114,3 +113,5 @@ Blynk Email Sending : support
 
 Admin : K'Permpol Thanapunnamas
 ```
+
+> Thanks to K'Permpol Thanapunnamas, Remy Martin and Kitarotao.
