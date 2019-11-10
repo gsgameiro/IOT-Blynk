@@ -68,7 +68,7 @@ Admin : Prakit Junkhum
 Server : blynkfree.info
 App Port: 9443
 Device Port: 8080
-Status : Alive (seen 11 Dec 2018)
+Status : Alive (seen 4 Jan 2018)
 Energy : 1,000,000
 Blynk Email Sending : support
 
@@ -94,16 +94,6 @@ Blynk Email Sending : support
 Admin : Weerachai Yaemvachi
 
 10.
-Server : blynkfree.info
-App Port: 9443
-Device Port: 8080
-Status : Alive (seen 24 Jan 2018)
-Energy : 1,000,000
-Blynk Email Sending : unknown
-
-Admin : U-karat Limkunakoon
-
-11.
 Server : oasiskit.com
 App Port: 9443
 Device Port: 8080
