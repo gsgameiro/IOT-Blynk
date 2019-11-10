@@ -9,7 +9,7 @@ Server : oasiskit.com
 App Port: 9443
 Device Port: 8080
 Status : Alive (seen 10 Nov 2019)
-Energy : ** 10,000,000 **
+Energy : **10,000,000**
 Blynk Email Sending : support
 Server location : **Digital Ocean**, Singapore (SG)
 
