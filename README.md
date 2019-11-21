@@ -2,6 +2,7 @@
 
 ## *Public Free Blynk Server*
 ###### If you know more servers/details, please help me to keep this list updated.
+(blynk.io server is currently providing ⚡️2.000 of energy)
 
 1. Server : oasiskit.com\
 App Port: 9443\
