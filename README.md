@@ -3,7 +3,6 @@
 ## *Public Free Blynk Server*
 ###### If you know more servers/details, please help me to keep this list updated.
 
-
 1.
 Server : oasiskit.com\
 App Port: 9443\
@@ -45,16 +44,6 @@ Server location : Italy (IT)\
 Admin : Prakit Junkhum\
 
 5.
-Server : blynkfree.info\
-App Port: 9443\
-Device Port: 8080\
-Status : not Alive (seen 10 Nov 2019)\
-Energy : 1,000,000\
-Blynk Email Sending : support\
-Server location : United States of America (US)\
-Admin : U-karat Limkunakoon\
-
-6.
 Server : blynk.honey.co.th\
 App Port: 9443\
 Device Port: 8080\
@@ -64,7 +53,7 @@ Blynk Email Sending : support\
 Server location : Thailand (TH)\
 Admin : Sonthaya Boonchan\
 
-7.
+6.
 Server : page2meblynk.ddnsthailand.com\
 App Port: 9443\
 Device Port: 8080\
@@ -74,7 +63,7 @@ Blynk Email Sending : support\
 Server location : Thailand (TH)\
 Admin : Weerachai Yaemvachi\
 
-8.
+7.
 Server : ~~PusanBlynk.ddns.net~~\
 App Port: 9443\
 Device Port: 8080\
@@ -84,7 +73,7 @@ Blynk Email Sending : support\
 Server location : unknow\
 Admin : Busan Electric\
 
-9.
+8.
 Server : ~~blynk.pusan.online~~\
 App Port: 9443\
 Device Port: 8888\
@@ -93,6 +82,16 @@ Energy : 1,000,000 (For more energy,contact admin)\
 Blynk Email Sending : support\
 Server location : unknow\
 Admin : Busan Electric\
+
+9.
+Server : ~~blynkfree.info~~\
+App Port: 9443\
+Device Port: 8080\
+Status : **not Alive** (seen 10 Nov 2019)\
+Energy : 1,000,000\
+Blynk Email Sending : support\
+Server location : United States of America (US)\
+Admin : U-karat Limkunakoon\
 
 10.
 Server : ~~zeeblynk.com~~\
