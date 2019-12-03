@@ -8,7 +8,7 @@
 App Port: 9443\
 Device Port: 8080\
 Status : Alive (seen 21 Nov 2019)\
-Energy : **10.000.000**\
+Energy : **10,000,000**\
 Blynk Email Sending : support\
 Server location : Digital Ocean, Singapore (SG)\
 Admin : K'Permpol Thanapunnamas
@@ -22,7 +22,16 @@ Blynk Email Sending : unknown\
 Server location : Thailand (TH)\
 Admin : Krisana Meesuk Department of Electronic Science, Chiang Mai
 
-3. Server: bilanblynk.ddns.net\
+3. Server : 47.244.1.232\
+App Port: 9443\
+Device Port: 8080\
+Status : Alive (seen 03 Dez 2019)\
+Energy : 100,000\
+Blynk Email Sending : notifytaloslogy@gmail.com\
+Server location : Hong Kong (HK)\
+Admin : Team Taloslogy
+
+4. Server: bilanblynk.ddns.net\
 App Port: 9443\
 Device Port: 9191\
 Status : Alive (seen 10 Nov 2019)\
@@ -31,7 +40,7 @@ Blynk Email Sending : unknown\
 Server location : Thailand (TH)\
 Admin : Likky Bilan
 
-4. Server : prakitblog.com\
+5. Server : prakitblog.com\
 App Port: 9443\
 Device Port: 8181\
 Status : Alive (seen 10 Nov 2019)\
@@ -40,7 +49,7 @@ Blynk Email Sending : support\
 Server location : Italy (IT)\
 Admin : Prakit Junkhum
 
-5. Server : blynk.honey.co.th\
+6. Server : blynk.honey.co.th\
 App Port: 9443\
 Device Port: 8080\
 Status : Alive (seen 10 Nov 2019)\
@@ -49,7 +58,7 @@ Blynk Email Sending : support\
 Server location : Thailand (TH)\
 Admin : Sonthaya Boonchan
 
-6. Server : page2meblynk.ddnsthailand.com\
+7. Server : page2meblynk.ddnsthailand.com\
 App Port: 9443\
 Device Port: 8080\
 Status : Alive (seen 10 Nov 2019)\
@@ -58,7 +67,7 @@ Blynk Email Sending : support\
 Server location : Thailand (TH)\
 Admin : Weerachai Yaemvachi
 
-7. Server : ~~PusanBlynk.ddns.net~~\
+8. Server : ~~PusanBlynk.ddns.net~~\
 App Port: 9443\
 Device Port: 8080\
 Status : **not Alive** (seen 10 Nov 2019)\
@@ -67,7 +76,7 @@ Blynk Email Sending : support\
 Server location : unknow\
 Admin : Busan Electric
 
-8. Server : ~~blynk.pusan.online~~\
+9. Server : ~~blynk.pusan.online~~\
 App Port: 9443\
 Device Port: 8888\
 Status : **not Alive** (seen 10 Nov 2019)\
@@ -76,7 +85,7 @@ Blynk Email Sending : support\
 Server location : unknow\
 Admin : Busan Electric
 
-9. Server : ~~blynkfree.info~~\
+10. Server : ~~blynkfree.info~~\
 App Port: 9443\
 Device Port: 8080\
 Status : **not Alive** (seen 10 Nov 2019)\
@@ -85,7 +94,7 @@ Blynk Email Sending : support\
 Server location : United States of America (US)\
 Admin : U-karat Limkunakoon
 
-10. Server : ~~zeeblynk.com~~\
+11. Server : ~~zeeblynk.com~~\
 App Port: 9443\
 Device Port: 8080\
 Status : **not Alive** (seen 21 Nov 2019)\
