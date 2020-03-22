@@ -4,7 +4,7 @@
 ###### If you know more servers/details, please help me to keep this list updated.
 (blynk.io server is currently providing ⚡️2.000 of energy)
 
-1. Server : oasiskit.com\
+1. Server : 128.199.173.118 (oasiskit.com)\
 App Port: 9443\
 Device Port: 8080\
 Status : Alive (seen 22 Mar 2020)\
